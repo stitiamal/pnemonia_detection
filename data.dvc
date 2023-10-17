@@ -3,3 +3,9 @@ outs:
   size: 1236482806
   nfiles: 5856
   path: data
+=======
+outs:
+- md5: 4a53126f378534e1c45ee471b1b26efb.dir
+  size: 1236482806
+  nfiles: 5856
+  path: data
