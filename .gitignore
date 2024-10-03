@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 /data/row
 /data/processed
+=======
+__pycache__/
+
+.DS_Store
+
+data/raw/
+models/
+>>>>>>> master
